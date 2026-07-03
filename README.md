@@ -18,4 +18,4 @@ The m4formative-World_cup_quiz is a fun quiz about the FIFA World Cup. You have 
 
 4. Type your answers in the terminal for each question and see if you can score 5 out of 5.
 
-**Thanks for Playing**
+**Thanks for playing**
