@@ -6,17 +6,17 @@
 The m4formative-World_cup_quiz is a fun quiz about the FIFA World Cup. You have 5 questions about years of the World Cup to answer. Play and see if you can score 5 out of 5.
 
 
-** How to play**
+**How to play**
 
-** What you will need **
+***What you will need***
   - Python installed on your machine
   - A terminal, such as Visual Studio Code
 
-** How to run the program **
+***How to run the program***
 1. Open the project file in Visual Studo Code
 2. Open the terminal and run
 
-***how to answer the quiz ***
+***how to answer the quiz***
 1. Read each question
 2. Type the year answer that you think is correct
 3. press enter
@@ -26,17 +26,17 @@ The m4formative-World_cup_quiz is a fun quiz about the FIFA World Cup. You have 
 **How the code works**
 The program is made up of two functions and the main program.
 
-*** generate_question() ***
+***generate_question()***
 
 This function stores the five quiz questions and their answers.
 
-*** display_final_score() ***
+***display_final_score()***
 
 This function displays a different message depending on the user's final score.
 
-*** Main program ***
+***Main program***
 
 The main program displays the quiz title, asks each of the five questions, checks whether the user's answer is correct and keeps track of the score. Once all of the questions have been answered, it calls the display_final_score() function to show the final result.
 
-** Thank you for playing **
+**Thank you for playing**
 
