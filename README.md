@@ -6,7 +6,7 @@
 The m4formative-World_cup_quiz is a fun quiz about the FIFA World Cup. You have 5 questions about years of the World Cup to answer. Play and see if you can score 5 out of 5.
 
 
-# How to play**
+** How to play**
 
 ** What you will need **
   - Python installed on your machine
