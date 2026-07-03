@@ -16,7 +16,8 @@ The m4formative-World_cup_quiz is a fun quiz about the FIFA World Cup. You have 
 1. Open the project file in Visual Studo Code
 2. Open the terminal and run
 
-***how to answer the quiz***
+***How to answer the quiz***
+
 1. Read each question
 2. Type the year answer that you think is correct
 3. press enter
@@ -24,6 +25,7 @@ The m4formative-World_cup_quiz is a fun quiz about the FIFA World Cup. You have 
 5. after the final question, your score will be shown
 
 **How the code works**
+
 The program is made up of two functions and the main program.
 
 ***generate_question()***
