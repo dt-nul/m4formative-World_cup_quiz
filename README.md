@@ -1,5 +1,5 @@
 # m4formative-World_cup_quiz
-**This is a repository for my FIFA World Cup Python Quiz, created for the formative 1 assesment**
+**This is a repository for my FIFA World Cup Python Quiz, created for the formative 1 assessment**
 
 **What is the m4formative-World_cup_quiz?**
 
